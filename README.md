@@ -1,2 +1,2 @@
 # Demo
-testtest
+This is a test repo for SSMS tour. 
